@@ -9,6 +9,11 @@ Our project utlizes a Raspberry Pi in order to allow users to see when someone i
 ## Flow Diagram
 <img width="785" height="615" src=/Photos/SmartLockDiagram.jpg/>
 
+## Instructions
+In order to run both the Andriod application and the Python server, the Google Sheets API needs to be enabled for your account, the credentials must be setup, and the programs must be authorized.
+[This quickstart guide can help you with setup for Python.](https://developers.google.com/sheets/api/quickstart/python)
+[This quickstart guide can help you with setuping up permissions for Andriod.](https://developers.google.com/sheets/quickstart/android?hl=es-419)
+
 ## Components
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
