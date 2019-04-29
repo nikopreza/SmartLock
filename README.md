@@ -18,6 +18,10 @@ Our project utlizes a Raspberry Pi in order to allow users to see when someone i
 - 5v Power Bank
 - Andriod Phone
 
+### Wiring
+<img width="350" height="150" src=/Photos/wirechart1.png>
+<img width="350" height="150" src=/Photos/wirechart2.png>
+
 ## Pictures
 - RGB LED
 - <img width="350" height="250" src=/Photos/IMG_20190429_132023.jpg>
