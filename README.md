@@ -17,12 +17,15 @@ In order to run both the Andriod application and the Python server, the Google S
 ### Running the Code
 On Raspbery Pi, open two terminals and navigate to the code directory. 
 
-Python:  
+Terminal 1 Python:
 - python server.py 
 
-C++: 
+Termianl 2 C++:
 - ./build.sh  
 - sudo ./smartlock
+
+Andriod:  
+- download APK and run
 
 ## Components
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
