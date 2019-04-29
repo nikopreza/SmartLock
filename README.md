@@ -14,6 +14,16 @@ In order to run both the Andriod application and the Python server, the Google S
 [This quickstart guide can help you with setup for Python.](https://developers.google.com/sheets/api/quickstart/python)
 [This quickstart guide can help you with setuping up permissions for Andriod.](https://developers.google.com/sheets/quickstart/android?hl=es-419)
 
+### Running the Code
+On Raspbery Pi, open two terminals and navigate to the code directory. 
+
+Python:  
+- python server.py 
+
+C++: 
+- ./build.sh  
+- sudo ./smartlock
+
 ## Components
 - [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)
