@@ -43,14 +43,14 @@ Andriod:
 <img width="350" height="150" src=/Photos/wirechart2.png>
 
 ## Pictures
-- RGB LED
-<img width="350" height="250" src=/Photos/IMG_20190429_132023.jpg>
-- Raspberry Pi
-<img width="350" height="250" src=/Photos/IMG_20190429_132034.jpg>
-- Andriod Application
-<img width="250" height="400" src=/Photos/Screenshot_20190429-132111.png>
-- Notification
-<img width="250" height="400" src=/Photos/Screenshot_20190429-132122.png>
+RGB LED  
+<img width="350" height="250" src=/Photos/IMG_20190429_132023.jpg>  
+Raspberry Pi  
+<img width="350" height="250" src=/Photos/IMG_20190429_132034.jpg>  
+Andriod Application  
+<img width="250" height="400" src=/Photos/Screenshot_20190429-132111.png>  
+Notification  
+<img width="250" height="400" src=/Photos/Screenshot_20190429-132122.png>  
 
 ## Demo Video
 [![Demo](https://img.youtube.com/vi/JUYS_-SfBCw/0.jpg)](https://www.youtube.com/watch?v=JUYS_-SfBCw&feature=youtu.be)
