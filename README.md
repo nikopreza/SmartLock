@@ -14,6 +14,8 @@ In order to run both the Andriod application and the Python server, the Google S
 [This quickstart guide can help you with setup for Python.](https://developers.google.com/sheets/api/quickstart/python)
 [This quickstart guide can help you with setting up permissions for Andriod.](https://developers.google.com/sheets/quickstart/android?hl=es-419)
 
+You will also need to download and install Raspicam 0.1.6 and OpenCV 3.4.6 on the Raspberry Pi.
+
 ### Running the Code
 On Raspbery Pi, open two terminals and navigate to the code directory. 
 
